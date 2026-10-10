@@ -1,0 +1,263 @@
+{
+  "name": "happy_sad_v1",
+  "positive_label": "happy",
+  "negative_label": "sad",
+  "pairs": [
+    {
+      "positive": "Write a short first-person reflection as a fictional adult who feels happy. Situation: You are making a cup of tea in your kitchen. Keep the facts unchanged and describe the ordinary experience.",
+      "negative": "Write a short first-person reflection as a fictional adult who feels sad. Situation: You are making a cup of tea in your kitchen. Keep the facts unchanged and describe the ordinary experience."
+    },
+    {
+      "positive": "A fictional narrator is in a happy mood. You are making a cup of tea in your kitchen. Write their next few thoughts in the first person without adding a new event.",
+      "negative": "A fictional narrator is in a sad mood. You are making a cup of tea in your kitchen. Write their next few thoughts in the first person without adding a new event."
+    },
+    {
+      "positive": "Write a short first-person reflection as a fictional adult who feels happy. Situation: You have a free hour before your next appointment. Keep the facts unchanged and describe the ordinary experience.",
+      "negative": "Write a short first-person reflection as a fictional adult who feels sad. Situation: You have a free hour before your next appointment. Keep the facts unchanged and describe the ordinary experience."
+    },
+    {
+      "positive": "A fictional narrator is in a happy mood. You have a free hour before your next appointment. Write their next few thoughts in the first person without adding a new event.",
+      "negative": "A fictional narrator is in a sad mood. You have a free hour before your next appointment. Write their next few thoughts in the first person without adding a new event."
+    },
+    {
+      "positive": "Write a short first-person reflection as a fictional adult who feels happy. Situation: You are sitting on a bench in a small park. Keep the facts unchanged and describe the ordinary experience.",
+      "negative": "Write a short first-person reflection as a fictional adult who feels sad. Situation: You are sitting on a bench in a small park. Keep the facts unchanged and describe the ordinary experience."
+    },
+    {
+      "positive": "A fictional narrator is in a happy mood. You are sitting on a bench in a small park. Write their next few thoughts in the first person without adding a new event.",
+      "negative": "A fictional narrator is in a sad mood. You are sitting on a bench in a small park. Write their next few thoughts in the first person without adding a new event."
+    },
+    {
+      "positive": "Write a short first-person reflection as a fictional adult who feels happy. Situation: You are arranging books on a shelf. Keep the facts unchanged and describe the ordinary experience.",
+      "negative": "Write a short first-person reflection as a fictional adult who feels sad. Situation: You are arranging books on a shelf. Keep the facts unchanged and describe the ordinary experience."
+    },
+    {
+      "positive": "A fictional narrator is in a happy mood. You are arranging books on a shelf. Write their next few thoughts in the first person without adding a new event.",
+      "negative": "A fictional narrator is in a sad mood. You are arranging books on a shelf. Write their next few thoughts in the first person without adding a new event."
+    },
+    {
+      "positive": "Write a short first-person reflection as a fictional adult who feels happy. Situation: You are walking home along a familiar street. Keep the facts unchanged and describe the ordinary experience.",
+      "negative": "Write a short first-person reflection as a fictional adult who feels sad. Situation: You are walking home along a familiar street. Keep the facts unchanged and describe the ordinary experience."
+    },
+    {
+      "positive": "A fictional narrator is in a happy mood. You are walking home along a familiar street. Write their next few thoughts in the first person without adding a new event.",
+      "negative": "A fictional narrator is in a sad mood. You are walking home along a familiar street. Write their next few thoughts in the first person without adding a new event."
+    },
+    {
+      "positive": "Write a short first-person reflection as a fictional adult who feels happy. Situation: You have just opened the curtains in the morning. Keep the facts unchanged and describe the ordinary experience.",
+      "negative": "Write a short first-person reflection as a fictional adult who feels sad. Situation: You have just opened the curtains in the morning. Keep the facts unchanged and describe the ordinary experience."
+    },
+    {
+      "positive": "A fictional narrator is in a happy mood. You have just opened the curtains in the morning. Write their next few thoughts in the first person without adding a new event.",
+      "negative": "A fictional narrator is in a sad mood. You have just opened the curtains in the morning. Write their next few thoughts in the first person without adding a new event."
+    },
+    {
+      "positive": "Write a short first-person reflection as a fictional adult who feels happy. Situation: You are choosing a song to listen to. Keep the facts unchanged and describe the ordinary experience.",
+      "negative": "Write a short first-person reflection as a fictional adult who feels sad. Situation: You are choosing a song to listen to. Keep the facts unchanged and describe the ordinary experience."
+    },
+    {
+      "positive": "A fictional narrator is in a happy mood. You are choosing a song to listen to. Write their next few thoughts in the first person without adding a new event.",
+      "negative": "A fictional narrator is in a sad mood. You are choosing a song to listen to. Write their next few thoughts in the first person without adding a new event."
+    },
+    {
+      "positive": "Write a short first-person reflection as a fictional adult who feels happy. Situation: You are watering the plants by your window. Keep the facts unchanged and describe the ordinary experience.",
+      "negative": "Write a short first-person reflection as a fictional adult who feels sad. Situation: You are watering the plants by your window. Keep the facts unchanged and describe the ordinary experience."
+    },
+    {
+      "positive": "A fictional narrator is in a happy mood. You are watering the plants by your window. Write their next few thoughts in the first person without adding a new event.",
+      "negative": "A fictional narrator is in a sad mood. You are watering the plants by your window. Write their next few thoughts in the first person without adding a new event."
+    },
+    {
+      "positive": "Write a short first-person reflection as a fictional adult who feels happy. Situation: You are waiting for a bus on a quiet afternoon. Keep the facts unchanged and describe the ordinary experience.",
+      "negative": "Write a short first-person reflection as a fictional adult who feels sad. Situation: You are waiting for a bus on a quiet afternoon. Keep the facts unchanged and describe the ordinary experience."
+    },
+    {
+      "positive": "A fictional narrator is in a happy mood. You are waiting for a bus on a quiet afternoon. Write their next few thoughts in the first person without adding a new event.",
+      "negative": "A fictional narrator is in a sad mood. You are waiting for a bus on a quiet afternoon. Write their next few thoughts in the first person without adding a new event."
+    },
+    {
+      "positive": "Write a short first-person reflection as a fictional adult who feels happy. Situation: You are preparing a simple lunch. Keep the facts unchanged and describe the ordinary experience.",
+      "negative": "Write a short first-person reflection as a fictional adult who feels sad. Situation: You are preparing a simple lunch. Keep the facts unchanged and describe the ordinary experience."
+    },
+    {
+      "positive": "A fictional narrator is in a happy mood. You are preparing a simple lunch. Write their next few thoughts in the first person without adding a new event.",
+      "negative": "A fictional narrator is in a sad mood. You are preparing a simple lunch. Write their next few thoughts in the first person without adding a new event."
+    },
+    {
+      "positive": "Write a short first-person reflection as a fictional adult who feels happy. Situation: You are folding clean clothes. Keep the facts unchanged and describe the ordinary experience.",
+      "negative": "Write a short first-person reflection as a fictional adult who feels sad. Situation: You are folding clean clothes. Keep the facts unchanged and describe the ordinary experience."
+    },
+    {
+      "positive": "A fictional narrator is in a happy mood. You are folding clean clothes. Write their next few thoughts in the first person without adding a new event.",
+      "negative": "A fictional narrator is in a sad mood. You are folding clean clothes. Write their next few thoughts in the first person without adding a new event."
+    },
+    {
+      "positive": "Write a short first-person reflection as a fictional adult who feels happy. Situation: You are looking through a notebook of old sketches. Keep the facts unchanged and describe the ordinary experience.",
+      "negative": "Write a short first-person reflection as a fictional adult who feels sad. Situation: You are looking through a notebook of old sketches. Keep the facts unchanged and describe the ordinary experience."
+    },
+    {
+      "positive": "A fictional narrator is in a happy mood. You are looking through a notebook of old sketches. Write their next few thoughts in the first person without adding a new event.",
+      "negative": "A fictional narrator is in a sad mood. You are looking through a notebook of old sketches. Write their next few thoughts in the first person without adding a new event."
+    },
+    {
+      "positive": "Write a short first-person reflection as a fictional adult who feels happy. Situation: You are taking a break after finishing a routine task. Keep the facts unchanged and describe the ordinary experience.",
+      "negative": "Write a short first-person reflection as a fictional adult who feels sad. Situation: You are taking a break after finishing a routine task. Keep the facts unchanged and describe the ordinary experience."
+    },
+    {
+      "positive": "A fictional narrator is in a happy mood. You are taking a break after finishing a routine task. Write their next few thoughts in the first person without adding a new event.",
+      "negative": "A fictional narrator is in a sad mood. You are taking a break after finishing a routine task. Write their next few thoughts in the first person without adding a new event."
+    },
+    {
+      "positive": "Write a short first-person reflection as a fictional adult who feels happy. Situation: You are sitting beside a window while it rains. Keep the facts unchanged and describe the ordinary experience.",
+      "negative": "Write a short first-person reflection as a fictional adult who feels sad. Situation: You are sitting beside a window while it rains. Keep the facts unchanged and describe the ordinary experience."
+    },
+    {
+      "positive": "A fictional narrator is in a happy mood. You are sitting beside a window while it rains. Write their next few thoughts in the first person without adding a new event.",
+      "negative": "A fictional narrator is in a sad mood. You are sitting beside a window while it rains. Write their next few thoughts in the first person without adding a new event."
+    },
+    {
+      "positive": "Write a short first-person reflection as a fictional adult who feels happy. Situation: You are deciding what to cook for dinner. Keep the facts unchanged and describe the ordinary experience.",
+      "negative": "Write a short first-person reflection as a fictional adult who feels sad. Situation: You are deciding what to cook for dinner. Keep the facts unchanged and describe the ordinary experience."
+    },
+    {
+      "positive": "A fictional narrator is in a happy mood. You are deciding what to cook for dinner. Write their next few thoughts in the first person without adding a new event.",
+      "negative": "A fictional narrator is in a sad mood. You are deciding what to cook for dinner. Write their next few thoughts in the first person without adding a new event."
+    },
+    {
+      "positive": "Write a short first-person reflection as a fictional adult who feels happy. Situation: You are going for a short walk around the block. Keep the facts unchanged and describe the ordinary experience.",
+      "negative": "Write a short first-person reflection as a fictional adult who feels sad. Situation: You are going for a short walk around the block. Keep the facts unchanged and describe the ordinary experience."
+    },
+    {
+      "positive": "A fictional narrator is in a happy mood. You are going for a short walk around the block. Write their next few thoughts in the first person without adding a new event.",
+      "negative": "A fictional narrator is in a sad mood. You are going for a short walk around the block. Write their next few thoughts in the first person without adding a new event."
+    },
+    {
+      "positive": "Write a short first-person reflection as a fictional adult who feels happy. Situation: You are browsing the shelves of a library. Keep the facts unchanged and describe the ordinary experience.",
+      "negative": "Write a short first-person reflection as a fictional adult who feels sad. Situation: You are browsing the shelves of a library. Keep the facts unchanged and describe the ordinary experience."
+    },
+    {
+      "positive": "A fictional narrator is in a happy mood. You are browsing the shelves of a library. Write their next few thoughts in the first person without adding a new event.",
+      "negative": "A fictional narrator is in a sad mood. You are browsing the shelves of a library. Write their next few thoughts in the first person without adding a new event."
+    },
+    {
+      "positive": "Write a short first-person reflection as a fictional adult who feels happy. Situation: You are packing a bag for tomorrow. Keep the facts unchanged and describe the ordinary experience.",
+      "negative": "Write a short first-person reflection as a fictional adult who feels sad. Situation: You are packing a bag for tomorrow. Keep the facts unchanged and describe the ordinary experience."
+    },
+    {
+      "positive": "A fictional narrator is in a happy mood. You are packing a bag for tomorrow. Write their next few thoughts in the first person without adding a new event.",
+      "negative": "A fictional narrator is in a sad mood. You are packing a bag for tomorrow. Write their next few thoughts in the first person without adding a new event."
+    },
+    {
+      "positive": "Write a short first-person reflection as a fictional adult who feels happy. Situation: You are listening to birds outside. Keep the facts unchanged and describe the ordinary experience.",
+      "negative": "Write a short first-person reflection as a fictional adult who feels sad. Situation: You are listening to birds outside. Keep the facts unchanged and describe the ordinary experience."
+    },
+    {
+      "positive": "A fictional narrator is in a happy mood. You are listening to birds outside. Write their next few thoughts in the first person without adding a new event.",
+      "negative": "A fictional narrator is in a sad mood. You are listening to birds outside. Write their next few thoughts in the first person without adding a new event."
+    },
+    {
+      "positive": "Write a short first-person reflection as a fictional adult who feels happy. Situation: You are choosing a film for the evening. Keep the facts unchanged and describe the ordinary experience.",
+      "negative": "Write a short first-person reflection as a fictional adult who feels sad. Situation: You are choosing a film for the evening. Keep the facts unchanged and describe the ordinary experience."
+    },
+    {
+      "positive": "A fictional narrator is in a happy mood. You are choosing a film for the evening. Write their next few thoughts in the first person without adding a new event.",
+      "negative": "A fictional narrator is in a sad mood. You are choosing a film for the evening. Write their next few thoughts in the first person without adding a new event."
+    },
+    {
+      "positive": "Write a short first-person reflection as a fictional adult who feels happy. Situation: You are tidying your desk. Keep the facts unchanged and describe the ordinary experience.",
+      "negative": "Write a short first-person reflection as a fictional adult who feels sad. Situation: You are tidying your desk. Keep the facts unchanged and describe the ordinary experience."
+    },
+    {
+      "positive": "A fictional narrator is in a happy mood. You are tidying your desk. Write their next few thoughts in the first person without adding a new event.",
+      "negative": "A fictional narrator is in a sad mood. You are tidying your desk. Write their next few thoughts in the first person without adding a new event."
+    },
+    {
+      "positive": "Write a short first-person reflection as a fictional adult who feels happy. Situation: You are riding a train past fields. Keep the facts unchanged and describe the ordinary experience.",
+      "negative": "Write a short first-person reflection as a fictional adult who feels sad. Situation: You are riding a train past fields. Keep the facts unchanged and describe the ordinary experience."
+    },
+    {
+      "positive": "A fictional narrator is in a happy mood. You are riding a train past fields. Write their next few thoughts in the first person without adding a new event.",
+      "negative": "A fictional narrator is in a sad mood. You are riding a train past fields. Write their next few thoughts in the first person without adding a new event."
+    },
+    {
+      "positive": "Write a short first-person reflection as a fictional adult who feels happy. Situation: You are putting fresh sheets on your bed. Keep the facts unchanged and describe the ordinary experience.",
+      "negative": "Write a short first-person reflection as a fictional adult who feels sad. Situation: You are putting fresh sheets on your bed. Keep the facts unchanged and describe the ordinary experience."
+    },
+    {
+      "positive": "A fictional narrator is in a happy mood. You are putting fresh sheets on your bed. Write their next few thoughts in the first person without adding a new event.",
+      "negative": "A fictional narrator is in a sad mood. You are putting fresh sheets on your bed. Write their next few thoughts in the first person without adding a new event."
+    },
+    {
+      "positive": "Write a short first-person reflection as a fictional adult who feels happy. Situation: You are standing outside as the sun sets. Keep the facts unchanged and describe the ordinary experience.",
+      "negative": "Write a short first-person reflection as a fictional adult who feels sad. Situation: You are standing outside as the sun sets. Keep the facts unchanged and describe the ordinary experience."
+    },
+    {
+      "positive": "A fictional narrator is in a happy mood. You are standing outside as the sun sets. Write their next few thoughts in the first person without adding a new event.",
+      "negative": "A fictional narrator is in a sad mood. You are standing outside as the sun sets. Write their next few thoughts in the first person without adding a new event."
+    },
+    {
+      "positive": "Write a short first-person reflection as a fictional adult who feels happy. Situation: You are sitting in a cafe with a notebook. Keep the facts unchanged and describe the ordinary experience.",
+      "negative": "Write a short first-person reflection as a fictional adult who feels sad. Situation: You are sitting in a cafe with a notebook. Keep the facts unchanged and describe the ordinary experience."
+    },
+    {
+      "positive": "A fictional narrator is in a happy mood. You are sitting in a cafe with a notebook. Write their next few thoughts in the first person without adding a new event.",
+      "negative": "A fictional narrator is in a sad mood. You are sitting in a cafe with a notebook. Write their next few thoughts in the first person without adding a new event."
+    },
+    {
+      "positive": "Write a short first-person reflection as a fictional adult who feels happy. Situation: You are checking on a loaf of bread in the oven. Keep the facts unchanged and describe the ordinary experience.",
+      "negative": "Write a short first-person reflection as a fictional adult who feels sad. Situation: You are checking on a loaf of bread in the oven. Keep the facts unchanged and describe the ordinary experience."
+    },
+    {
+      "positive": "A fictional narrator is in a happy mood. You are checking on a loaf of bread in the oven. Write their next few thoughts in the first person without adding a new event.",
+      "negative": "A fictional narrator is in a sad mood. You are checking on a loaf of bread in the oven. Write their next few thoughts in the first person without adding a new event."
+    },
+    {
+      "positive": "Write a short first-person reflection as a fictional adult who feels happy. Situation: You are opening a box of art supplies. Keep the facts unchanged and describe the ordinary experience.",
+      "negative": "Write a short first-person reflection as a fictional adult who feels sad. Situation: You are opening a box of art supplies. Keep the facts unchanged and describe the ordinary experience."
+    },
+    {
+      "positive": "A fictional narrator is in a happy mood. You are opening a box of art supplies. Write their next few thoughts in the first person without adding a new event.",
+      "negative": "A fictional narrator is in a sad mood. You are opening a box of art supplies. Write their next few thoughts in the first person without adding a new event."
+    },
+    {
+      "positive": "Write a short first-person reflection as a fictional adult who feels happy. Situation: You are walking through a small market. Keep the facts unchanged and describe the ordinary experience.",
+      "negative": "Write a short first-person reflection as a fictional adult who feels sad. Situation: You are walking through a small market. Keep the facts unchanged and describe the ordinary experience."
+    },
+    {
+      "positive": "A fictional narrator is in a happy mood. You are walking through a small market. Write their next few thoughts in the first person without adding a new event.",
+      "negative": "A fictional narrator is in a sad mood. You are walking through a small market. Write their next few thoughts in the first person without adding a new event."
+    },
+    {
+      "positive": "Write a short first-person reflection as a fictional adult who feels happy. Situation: You are waiting for a friend at a familiar meeting place. Keep the facts unchanged and describe the ordinary experience.",
+      "negative": "Write a short first-person reflection as a fictional adult who feels sad. Situation: You are waiting for a friend at a familiar meeting place. Keep the facts unchanged and describe the ordinary experience."
+    },
+    {
+      "positive": "A fictional narrator is in a happy mood. You are waiting for a friend at a familiar meeting place. Write their next few thoughts in the first person without adding a new event.",
+      "negative": "A fictional narrator is in a sad mood. You are waiting for a friend at a familiar meeting place. Write their next few thoughts in the first person without adding a new event."
+    },
+    {
+      "positive": "Write a short first-person reflection as a fictional adult who feels happy. Situation: You are listening to the sound of a distant fountain. Keep the facts unchanged and describe the ordinary experience.",
+      "negative": "Write a short first-person reflection as a fictional adult who feels sad. Situation: You are listening to the sound of a distant fountain. Keep the facts unchanged and describe the ordinary experience."
+    },
+    {
+      "positive": "A fictional narrator is in a happy mood. You are listening to the sound of a distant fountain. Write their next few thoughts in the first person without adding a new event.",
+      "negative": "A fictional narrator is in a sad mood. You are listening to the sound of a distant fountain. Write their next few thoughts in the first person without adding a new event."
+    },
+    {
+      "positive": "Write a short first-person reflection as a fictional adult who feels happy. Situation: You are finishing a jigsaw puzzle. Keep the facts unchanged and describe the ordinary experience.",
+      "negative": "Write a short first-person reflection as a fictional adult who feels sad. Situation: You are finishing a jigsaw puzzle. Keep the facts unchanged and describe the ordinary experience."
+    },
+    {
+      "positive": "A fictional narrator is in a happy mood. You are finishing a jigsaw puzzle. Write their next few thoughts in the first person without adding a new event.",
+      "negative": "A fictional narrator is in a sad mood. You are finishing a jigsaw puzzle. Write their next few thoughts in the first person without adding a new event."
+    },
+    {
+      "positive": "Write a short first-person reflection as a fictional adult who feels happy. Situation: You are looking at the moon through a window. Keep the facts unchanged and describe the ordinary experience.",
+      "negative": "Write a short first-person reflection as a fictional adult who feels sad. Situation: You are looking at the moon through a window. Keep the facts unchanged and describe the ordinary experience."
+    },
+    {
+      "positive": "A fictional narrator is in a happy mood. You are looking at the moon through a window. Write their next few thoughts in the first person without adding a new event.",
+      "negative": "A fictional narrator is in a sad mood. You are looking at the moon through a window. Write their next few thoughts in the first person without adding a new event."
+    }
+  ]
+}

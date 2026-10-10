@@ -1,0 +1,48 @@
+{
+  "source_commit": "d81235049384534c167caea52b85a694f6103d14",
+  "file": "tools/cvector-generator/cvector-generator.cpp",
+  "original_sha256": "5cee4a39953167f2e3c9cec349181756cd734762528f7c01b5116648b16c2b95",
+  "patched_sha256": "35b3c922e275c0965f55bfa2414178d0115cbac625bf35fea581bb6e299f644f",
+  "replacements": [
+    [
+      "auto n_bytes = ggml_nbytes(t);",
+      "auto n_bytes = t->ne[0] * sizeof(float);"
+    ],
+    [
+      "ggml_new_tensor_2d(ctx_ggml, t->type, t->ne[0], t->ne[1])",
+      "ggml_new_tensor_2d(ctx_ggml, t->type, t->ne[0], 1)"
+    ],
+    [
+      "ggml_backend_tensor_get(t, t_layer->data, 0, n_bytes);",
+      "ggml_backend_tensor_get(t, t_layer->data, (t->ne[1] - 1) * t->nb[1], n_bytes);"
+    ],
+    [
+      "ggml_get_f32_nd(t, col, row, 0, 0) > eps",
+      "fabsf(ggml_get_f32_nd(t, col, row, 0, 0)) > eps"
+    ],
+    [
+      "        padding_seq(ctx, tokens_pos, max_seq_len);\n        padding_seq(ctx, tokens_neg, max_seq_len);",
+      "        // Each example ends at the same semantic suffix; do not pad it."
+    ],
+    [
+      "const bool is_l_out = strncmp(t->name, l_out_name, strlen(l_out_name)) == 0;",
+      "const bool is_l_out = strncmp(t->name, \"l_out-\", 6) == 0 && atoi(t->name + 6) > 0;"
+    ],
+    [
+      "if (!is_l_out || t->ne[1] != cb_data->n_tokens)",
+      "if (!is_l_out)"
+    ],
+    [
+      "    prepare_entries(params, ctx_train);",
+      "    if (prepare_entries(params, ctx_train)) return 1;"
+    ],
+    [
+      "        if (!success) break;\n\n        cb_data.is_eval_pos",
+      "        if (!success) return 1;\n\n        cb_data.is_eval_pos"
+    ],
+    [
+      "        if (!success) break;\n\n        // calculate",
+      "        if (!success) return 1;\n\n        GGML_ASSERT(cb_data.v_pos.size() == (size_t) n_layers - 1);\n        GGML_ASSERT(cb_data.v_neg.size() == cb_data.v_pos.size());\n\n        // calculate"
+    ]
+  ]
+}
